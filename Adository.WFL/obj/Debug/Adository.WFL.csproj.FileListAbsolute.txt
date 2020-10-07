@@ -1,0 +1,9 @@
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\bin\Debug\Adository.WFL.dll.config
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\bin\Debug\Adository.WFL.dll
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\bin\Debug\Adository.WFL.pdb
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.csprojResolveAssemblyReference.cache
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.Properties.Resources.resources
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.csproj.GenerateResource.Cache
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.dll
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.WFL\obj\Debug\Adository.WFL.pdb

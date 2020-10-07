@@ -1,0 +1,6 @@
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\bin\Debug\Adository.Data.SqlServer.dll
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\bin\Debug\Adository.Data.SqlServer.pdb
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\obj\Debug\Adository.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\obj\Debug\Adository.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\obj\Debug\Adository.Data.SqlServer.dll
+C:\Users\acer\Downloads\Adository-master\Adository-master\Adository.Data.SqlServer\obj\Debug\Adository.Data.SqlServer.pdb
